@@ -1,0 +1,8 @@
+{
+  "name": "Vixit Tools Lab",
+  "description": "Powerful 100+ multi-utility suite featuring native PDF to Word (.docx) conversion, advanced splitting, merging, and high-performance technical tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
